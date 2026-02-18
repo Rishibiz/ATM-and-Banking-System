@@ -1,6 +1,6 @@
 # ATM-AND-BANKING-SYSTEM
-# Reg No:212223043003
-# Name:JOSIAH IMMANUEL A
+# Reg No:212223043005
+# Name:Rishi chandran R
 # Date:14-02-2026
 
 
@@ -49,7 +49,8 @@ Specifying the context and requirements of a system
 → Modeling the basic flow of events in a sina use case.
 
 
-![UseCaseDiagram1ATM BANKING SYSTEM 1](https://github.com/user-attachments/assets/24a91797-57b2-44c8-8c46-f7f661ed91ca)
+<img width="812" height="821" alt="UseCaseDiagram1" src="https://github.com/user-attachments/assets/7215206e-efb1-4149-9ff9-182b6428ff3d" />
+
 
 
 
@@ -81,7 +82,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. 
 
 
-![CommunicationDiagram1](https://github.com/user-attachments/assets/41fd6848-c9e3-41e8-b46e-5cdc99571f26)
+<img width="926" height="801" alt="CommunicationDiagram1" src="https://github.com/user-attachments/assets/8d0d7fd4-091f-4e6f-bf53-d42acab209a8" />
 
 
 # PACKAGE DIAGRAM:
@@ -93,7 +94,8 @@ organization of the layered architecture within any UML classifier, such as a so
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
 
-![PackageDiagram1](https://github.com/user-attachments/assets/bf8ad204-2aac-4040-aeb8-b44a278b3dc3)
+<img width="631" height="531" alt="PackageDiagram1" src="https://github.com/user-attachments/assets/30712d10-06f9-4dc8-8feb-3ff73d99a778" />
+
 
 
 
@@ -107,7 +109,8 @@ The Unified Modeling Language includes several subsets of diagrams, including st
 Stakeholders have many issues to manage, so it's important to communicate with clarity and brevity. Activity diagrams help people on the business and development sides of an organization come together to understand the same process and behavior.
 
 
-![ActivityDiagram1](https://github.com/user-attachments/assets/2c52bd50-96f5-4b28-8983-c2618df3c64b)
+<img width="496" height="962" alt="ActivityDiagram1" src="https://github.com/user-attachments/assets/93405dfb-cd01-4132-8af9-7ad3cf62c696" />
+
 
 
 
@@ -117,7 +120,8 @@ A sequence diagram is a type of intera jon diagram because it describes how- and
 
 a new system or to document an existing process. Sequence diagrams are sometimes known as event diagrams or event scenarios.
 
-![SequenceDiagram1 Atm and banking system](https://github.com/user-attachments/assets/6fde0651-4da4-4f5a-accd-70ff0b19afbd)
+![SequenceDiagram1](https://github.com/user-attachments/assets/ab609577-5b5f-4d1a-b668-2c3e316c11d5)
+
 
 
 # BENEFITS OF SEQUENCE DIAGRAM
